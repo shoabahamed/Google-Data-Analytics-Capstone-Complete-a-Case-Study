@@ -1,0 +1,8 @@
+ride_length_category,member_casual,category_count
+Greater than 2000,casual,1370
+101 to 1000,member,7582
+101 to 1000,casual,51112
+1001 to 2000,member,906
+Less than 101,casual,2290042
+1001 to 2000,casual,4083
+Less than 101,member,3377818
